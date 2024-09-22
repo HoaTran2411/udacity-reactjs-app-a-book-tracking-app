@@ -175,3 +175,8 @@ body,
   text-align: center;
   font-size: 0.8em;
 }
+
+.result-search {
+  font-size: 25px;
+  text-align: center;
+}
